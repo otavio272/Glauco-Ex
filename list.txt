@@ -1,0 +1,4 @@
+1 Glauco 4
+2 Habbib 5
+3 Paulo 10
+4 Maurício 9
